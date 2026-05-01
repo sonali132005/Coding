@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [2119-a-number-after-a-double-reversal](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/2119-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->
