@@ -23,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0896-monotonic-array](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
