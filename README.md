@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -41,6 +42,7 @@
 | [0217-contains-duplicate](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +137,8 @@
 | ------- |
 | [0189-rotate-array](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/2119-a-number-after-a-double-reversal) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
