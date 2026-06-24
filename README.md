@@ -68,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
@@ -111,6 +112,7 @@
 | [0189-rotate-array](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
