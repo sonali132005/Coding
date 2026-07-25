@@ -219,6 +219,7 @@
 | [0113-path-sum-ii](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -232,6 +233,7 @@
 | [0113-path-sum-ii](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0113-path-sum-ii](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -264,6 +267,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sonali132005/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
